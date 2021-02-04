@@ -1,0 +1,2 @@
+- Coloquei a conexao em todos por causa que tava bugando com outros arquivos da minha biblioteca.
+- Tive difilcudade na parte da venda e da lixeira, mas de resto está funcionando.
